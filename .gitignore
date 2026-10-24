@@ -1,0 +1,26 @@
+# Subprojetos com repositórios próprios
+app-ecidadao/
+backend-auth/
+backend-ecidadao/
+dashboard-ecidadao/
+frontend-ecidadao/
+
+# Configurações locais e CI de projetos individuais
+cloudflared/
+.github/
+
+# Arquivos de sistema e variáveis de ambiente confidenciais
+.DS_Store
+.env
+.env.local
+.worktrees/
+
+# Arquivos de log e mudanças
+
+.worktrees/
+
+# Arquivos de log e mudanças
+change.log
+
+# Arquivos de configuração Docker e documentação
+docker-compose.yml
